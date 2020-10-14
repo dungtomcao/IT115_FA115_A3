@@ -5,8 +5,8 @@ This is a repo for assignment 3 of class IT115.
 
 ## Team Members:
 * [Dung (Tom) Cao](https://github.com/dungtomcao)
+* [Edwin Ho](https://github.com/krayzieeddi)
 * [Dai Nguyen](https://github.com/ngocdai94)
-* [Edwin Ho]()
-* [Vu Nguyen]()
-* [Kate Baldwin]()
-* [Abdulla Aljanabi]()
+* [Vu Nguyen](https://github.com/catclops)
+* [Abdulla Aljanabi](https://github.com/krayzieeddi)
+* [Kate Baldwin](https://github.com/ktb702)
